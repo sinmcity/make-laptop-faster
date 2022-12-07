@@ -1,0 +1,6 @@
+Apply these commands in CMD as administrator
+bcdedit /set useplatformtick yes
+bcdedit /set disabledynamictick yes
+bcdedit /deletevalue useplatformclock
+
+(REPACK BY AIDENTAMGAMER)
